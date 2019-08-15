@@ -5,6 +5,9 @@
 # Let's Begin!
 
 * main screen
+  * a few disclaimers:
+  * it's not pretty
+  * you will miss features
 * dsp
 * media -> test
 * modal editor
