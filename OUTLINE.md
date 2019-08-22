@@ -1,5 +1,5 @@
 # Intro
-(5 min)
+(3 min)
 
 A bit about me:
 * https://noisybox.net
@@ -30,7 +30,21 @@ Background about pd:
 (5 min)
 
 * hello world (console)
+  * change print prefix
 * hello world (audio)
+
+# Patching essentials
+(3 minutes)
+
+* learn all the shortcuts!
+* edit mode toggle
+* clicking off the object
+* selecting
+  * box
+  * shift click
+* hot/quick play
+* duplicate
+* save your work
 
 # The help system
 (5 min)
@@ -46,7 +60,7 @@ Background about pd:
 
 * Terminology
   * inlets / outlets
-  * types: bang, signal, message, list
+  * types: bang, float, message, list, signal
 * 2 graphs: audio vs data
   * The tilde (~)
   * adc~, dac~
