@@ -9,6 +9,10 @@ A bit about me:
 
 Background about pd:
 * xxx
+* flavors
+ * vanilla
+ * l2ork
+ * extended is eol
 
 # Let's Begin!
 (5 min)
@@ -17,9 +21,16 @@ Background about pd:
   * a few disclaimers:
   * it's not pretty
   * you will miss features
+  * it's very primitive <3
 * dsp
 * media -> test
 * modal editor
+
+# Hello world
+(5 min)
+
+* hello world (console)
+* hello world (audio)
 
 # The help system
 (5 min)
@@ -28,12 +39,7 @@ Background about pd:
 * browser
   * how it's laid out
 * list of objects
-
-# Hello world
-(5 min)
-
-* hello world (console)
-* hello world (audio)
+* right click most objects
 
 # Some fundamentals
 (15 min)
@@ -43,6 +49,11 @@ Background about pd:
   * types: bang, signal, message, list
 * 2 graphs: audio vs data
   * The tilde (~)
+  * adc~, dac~
+  
+# Getting abstract / reuse
+* Subpatches
+  * start with `pd `
 * Abstractions 
 * Externals
 
@@ -54,11 +65,13 @@ Background about pd:
 
 # MIXEDUP
 * order of outlets
+* hot vs cold inlets
 * vline
 * dline
 * tables / arrays
 * tabosc
-* hot vs cold inlets
+* AM
+* FM
 
 # Resources
 * tbd
