@@ -2,17 +2,19 @@
 (3 min)
 
 A bit about me:
-* https://noisybox.net
-* https://infiltrationlab.com
-* https://www.parallel.studio/elements-1
-* https://archive.org/search.php?query=%22infiltration%20lab%22
+* I do projects and blog at [noisybox.net](https://noisybox.net)
+* I release music as [infiltration lab](https://infiltrationlab.com)
+  * You can [hear more at archive.org](https://archive.org/search.php?query=%22infiltration%20lab%22)
+* I collaborated on [this project](https://www.parallel.studio/elements-1) ([and more](https://www.youtube.com/watch?v=kDpdnAmAjI4))
 
 Background about pd:
-* xxx
+* MILLER (and community!)
 * flavors
  * vanilla
  * l2ork
  * extended is eol
+ 
+ I like pd because I like sound and it made me think differently about programming.
 
 # Let's Begin!
 (5 min)
@@ -61,21 +63,23 @@ Background about pd:
 * Terminology
   * inlets / outlets
   * types: bang, float, message, list, signal
+  * graphical ui elements
 * 2 graphs: audio vs data
   * The tilde (~)
   * adc~, dac~
-  
+
+# More fundamentals
+
+* tbd
+
+
 # Getting abstract / reuse
 * Subpatches
   * start with `pd `
 * Abstractions 
 * Externals
-
-# More fundamentals
-(5 min)
-
-* Graphical elements
 * Graph on parent
+
 
 # MIXEDUP
 * order of outlets
