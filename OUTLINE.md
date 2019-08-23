@@ -97,7 +97,7 @@ What did we just do?
   * uses [trigger] which is [t]
   
 # Enough already, more noises!
-(15 minutes)
+(30 min)
 
 Ok, lets expand on what we've learned so far while doing an exercise.
 
@@ -110,9 +110,18 @@ Ok, lets expand on what we've learned so far while doing an exercise.
   * mod 16
 * add a table
   * scale the table 
+  * add an hradio below
 * template that message
 * introducing [mtof]
-* add an hradio to metro time inlet (wowwy wow)
+* add a numbox to metro time inlet (wowwy wow!)
+
+# Add some delay
+(7 min)
+
+Even some basic delay can enhance your sound.
+
+* [delwrite~]
+* [delread4~] [vd~] (same thing)
 
 
 # Getting abstract / reuse
