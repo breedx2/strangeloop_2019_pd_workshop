@@ -44,9 +44,12 @@ Background about pd:
 * hello world (console)
   * change print prefix
 * hello world (audio)
+  * ouch that's loud! (this happens, promise)
 
 # Patching essentials
 (3 minutes)
+
+What did we just do?
 
 * learn all the shortcuts!
 * edit mode toggle
@@ -85,6 +88,24 @@ Background about pd:
 * build a counter
 * how to build 1/x
   * T and f
+  * uses [trigger] which is [t]
+  
+# Enough already, more noises!
+(15 minutes)
+
+Ok, lets expand on what we've learned so far while doing exercise.
+
+* let's do a slow vca
+* introducing [vline~]
+  * envelope the volume
+  * envelope some pitch
+* introducing [metro]
+  * our counter from before
+  * mod 16
+* add a table
+  * scale the table 
+* add a number to metro (wowwy wow)
+  
 
 # Getting abstract / reuse
 * Subpatches
@@ -104,6 +125,7 @@ Background about pd:
 * AM
 * FM
 * filters
+* saving/presets?
 
 # Resources
 * tbd
