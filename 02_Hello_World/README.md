@@ -9,4 +9,4 @@
 
 [prev](../01_Lets_Begin/) |
 [top](https://github.com/breedx2/strangeloop_2019_pd_workshop) |
-[next](../03_Patching_Essentials/README.md) 
+[next](../03_Patching_Essentials/) 
