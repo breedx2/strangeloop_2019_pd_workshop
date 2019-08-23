@@ -16,3 +16,7 @@ What did we just do? Tips to make patching simpler.
 * duplicate
 * save your work
 
+
+[prev](../02_Hello_World/) |
+[top](https://github.com/breedx2/strangeloop_2019_pd_workshop) |
+[next](../04_The_Help_System/README.md) 
