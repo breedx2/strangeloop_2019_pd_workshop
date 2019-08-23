@@ -47,7 +47,7 @@ Background about pd:
   * ouch that's loud! (this happens, promise)
 
 # Patching essentials
-(3 minutes)
+(5 minutes)
 
 What did we just do?
 
@@ -99,7 +99,7 @@ What did we just do?
 # Enough already, more noises!
 (30 min)
 
-Ok, lets expand on what we've learned so far while doing an exercise.
+Ok, lets do an exercise to expand on what we've learned so far...
 
 * let's do a slow vca
 * introducing [vline~]
@@ -120,9 +120,17 @@ Ok, lets expand on what we've learned so far while doing an exercise.
 
 Even some basic delay can enhance your sound.
 
-* [delwrite~]
-* [delread4~] [vd~] (same thing)
+* [delwrite~ xxx 2500]
+* [delread4~ xxx] [vd~] (same thing)
+  * add adjust to delay time
+* dump read into adjustable [*~]
+  * make feedback number max 1
+* put into output path with [+~]
+* tinker with delay time and feedback amount
 
+# Filtered noise
+
+<tbd>
 
 # Getting abstract / reuse
 * Subpatches
