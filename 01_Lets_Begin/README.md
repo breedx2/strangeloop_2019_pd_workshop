@@ -10,3 +10,6 @@
 * media -> test
 * modal editor
 
+[prev](../00_Introduction/README.md) |
+[top](https://github.com/breedx2/strangeloop_2019_pd_workshop) |
+[next](../02_Hello_World/README.md) 
