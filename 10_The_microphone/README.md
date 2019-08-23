@@ -10,3 +10,7 @@
   * drive first with [vline~]
   * next drive with [phasor~]
     * negative frequency plays backwards
+
+[prev](../09_Filtered_noise/) |
+[top](https://github.com/breedx2/strangeloop_2019_pd_workshop) |
+[next](../11_Getting_abstract_for_reuse/) 
