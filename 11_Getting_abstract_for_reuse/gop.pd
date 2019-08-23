@@ -1,11 +1,11 @@
-#N canvas 381 580 822 670 10;
-#X floatatom 275 141 5 0 0 0 - - -;
-#N canvas 712 356 1064 883 sthinger 0;
+#N canvas 381 580 703 648 10;
+#X floatatom 45 28 5 0 0 0 - - -;
+#N canvas 712 356 739 676 sthinger 0;
 #X obj 239 12 inlet;
 #X obj 30 39 hsl 128 15 0 127 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 2600 1;
+-1 -1 3700 1;
 #X obj 30 74 hsl 128 15 0 127 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 2600 1;
+-1 -1 3700 1;
 #X obj 29 116 hsl 128 15 0 127 0 0 empty empty empty -2 -8 0 10 -262144
 -1 -1 0 1;
 #X obj 40 293 outlet;
@@ -32,5 +32,5 @@
 #X connect 12 2 11 1;
 #X connect 12 3 5 0;
 #X coords 0 -1 1 1 200 200 1 10 10;
-#X restore 267 215 pd sthinger;
+#X restore 45 102 pd sthinger;
 #X connect 0 0 1 0;
