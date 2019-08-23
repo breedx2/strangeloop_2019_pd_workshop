@@ -25,3 +25,6 @@ Background about pd:
  * A turnkey way to make EDM
  * not protools or live(tm)
 
+prev |
+[top](https://github.com/breedx2/strangeloop_2019_pd_workshop) |
+[next](../01_Lets_Begin/) 
