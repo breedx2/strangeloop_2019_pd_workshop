@@ -1,0 +1,36 @@
+#N canvas 381 580 822 670 10;
+#X floatatom 275 141 5 0 0 0 - - -;
+#N canvas 712 356 1064 883 sthinger 0;
+#X obj 239 12 inlet;
+#X obj 30 39 hsl 128 15 0 127 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 2600 1;
+#X obj 30 74 hsl 128 15 0 127 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 2600 1;
+#X obj 29 116 hsl 128 15 0 127 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 40 293 outlet;
+#X obj 259 93 random 1000;
+#X obj 259 116 + 250;
+#X obj 251 148 +;
+#X obj 232 175 delay;
+#X floatatom 283 191 5 0 0 0 - - -;
+#X obj 248 231 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 210 237 f;
+#X obj 231 63 t b f f b;
+#X connect 0 0 1 0;
+#X connect 1 0 12 0;
+#X connect 2 0 4 0;
+#X connect 5 0 6 0;
+#X connect 6 0 7 1;
+#X connect 7 0 8 1;
+#X connect 7 0 9 0;
+#X connect 8 0 11 0;
+#X connect 11 0 2 0;
+#X connect 12 0 8 0;
+#X connect 12 1 7 0;
+#X connect 12 2 11 1;
+#X connect 12 3 5 0;
+#X coords 0 -1 1 1 200 200 1 10 10;
+#X restore 267 215 pd sthinger;
+#X connect 0 0 1 0;

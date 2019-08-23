@@ -1,0 +1,9 @@
+#N canvas 227 1073 844 639 10;
+#X msg 37 47 hello world;
+#X obj 37 95 print xx;
+#X obj 142 58 osc~ 440;
+#X floatatom 142 21 5 0 0 0 - - -;
+#X obj 142 98 dac~;
+#X connect 0 0 1 0;
+#X connect 2 0 4 0;
+#X connect 3 0 2 0;
