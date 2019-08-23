@@ -129,8 +129,12 @@ Even some basic delay can enhance your sound.
 * tinker with delay time and feedback amount
 
 # Filtered noise
+(10 minutes)
 
-<tbd>
+* [lop~]
+* [hip~]
+* [bp~]
+* [vcf~]
 
 # Getting abstract / reuse
 * Subpatches
