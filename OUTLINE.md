@@ -84,7 +84,10 @@ What did we just do?
 # More fundamentals
 (10 minutes)
 
+* a creation conundrum
+  * a number feeding two prints (then changeem)
 * hot/cold inlets
+  * bad adder example
 * build a counter
 * how to build 1/x
   * T and f
@@ -93,7 +96,7 @@ What did we just do?
 # Enough already, more noises!
 (15 minutes)
 
-Ok, lets expand on what we've learned so far while doing exercise.
+Ok, lets expand on what we've learned so far while doing an exercise.
 
 * let's do a slow vca
 * introducing [vline~]
@@ -104,8 +107,8 @@ Ok, lets expand on what we've learned so far while doing exercise.
   * mod 16
 * add a table
   * scale the table 
-* add a number to metro (wowwy wow)
-  
+* add an hradio to metro (wowwy wow)
+
 
 # Getting abstract / reuse
 * Subpatches
