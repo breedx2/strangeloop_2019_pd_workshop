@@ -131,12 +131,27 @@ Even some basic delay can enhance your sound.
 # Filtered noise
 (10 minutes)
 
-* [lop~]
+* [lop~]tabwrite~ a2
 * [hip~]
 * [bp~]
 * [vcf~]
 
+# The microphone
+(12 min)
+
+* [adc~]
+  * the opposite of [dac~]
+* arrays/tables and [tabwrite~]
+* [tabplay~]
+* [tabosc4~]
+* [tabread4~]
+  * drive first with [vline~]
+  * next drive with [phasor~]
+    * negative frequency plays backwards
+
 # Getting abstract / reuse
+(?? min)
+
 * Subpatches
   * start with `pd `
 * Abstractions 
