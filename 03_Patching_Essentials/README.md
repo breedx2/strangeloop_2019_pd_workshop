@@ -19,4 +19,4 @@ What did we just do? Tips to make patching simpler.
 
 [prev](../02_Hello_World/) |
 [top](https://github.com/breedx2/strangeloop_2019_pd_workshop) |
-[next](../04_The_Help_System/README.md) 
+[next](../04_The_Help_System/) 
