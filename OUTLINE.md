@@ -15,6 +15,15 @@ Background about pd:
  * extended is eol
  
  I like pd because I like sound and it made me think differently about programming.
+ 
+ This workshop is ____________________________
+ * An introductory primer
+ * Hopefully some inspiration
+ * intended to help you start experimenting with sound
+ 
+ This workshop is not ________________________
+ * A turnkey way to make EDM
+ * not protools or live(tm)
 
 # Let's Begin!
 (5 min)
@@ -31,6 +40,7 @@ Background about pd:
 # Hello world
 (5 min)
 
+* hopefully you have [already installed pd](http://msp.ucsd.edu/software.html)
 * hello world (console)
   * change print prefix
 * hello world (audio)
@@ -58,7 +68,7 @@ Background about pd:
 * right click most objects
 
 # Some fundamentals
-(15 min)
+(10 min)
 
 * Terminology
   * inlets / outlets
@@ -69,9 +79,12 @@ Background about pd:
   * adc~, dac~
 
 # More fundamentals
+(10 minutes)
 
-* tbd
-
+* hot/cold inlets
+* build a counter
+* how to build 1/x
+  * T and f
 
 # Getting abstract / reuse
 * Subpatches
@@ -90,6 +103,7 @@ Background about pd:
 * tabosc
 * AM
 * FM
+* filters
 
 # Resources
 * tbd
