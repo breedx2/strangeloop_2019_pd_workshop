@@ -16,3 +16,7 @@ Ok, lets do an exercise to expand on what we've learned so far...
 * template that message
 * introducing [mtof]
 * add a numbox to metro time inlet (wowwy wow!)
+
+[prev](../06_More_Fundamentals/) |
+[top](https://github.com/breedx2/strangeloop_2019_pd_workshop) |
+[next](../08_Add_some_delay/) 
