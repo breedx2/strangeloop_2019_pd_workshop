@@ -107,7 +107,9 @@ Ok, lets expand on what we've learned so far while doing an exercise.
   * mod 16
 * add a table
   * scale the table 
-* add an hradio to metro (wowwy wow)
+* template that message
+* introducing [mtof]
+* add an hradio to metro time inlet (wowwy wow)
 
 
 # Getting abstract / reuse
