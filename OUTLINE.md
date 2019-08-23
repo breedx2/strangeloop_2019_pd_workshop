@@ -57,6 +57,9 @@ What did we just do?
 * selecting
   * box
   * shift click
+* number box + ui
+  * type it in (plus enter!)
+  * shift drag
 * hot/quick play
 * duplicate
 * save your work
