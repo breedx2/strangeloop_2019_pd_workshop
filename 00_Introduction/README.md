@@ -5,7 +5,10 @@
 * I do projects and blog at [noisybox.net](https://noisybox.net)
 * I release music as [infiltration lab](https://infiltrationlab.com)
   * You can [hear more at archive.org](https://archive.org/search.php?query=%22infiltration%20lab%22)
-* I collaborated on [this project](https://www.parallel.studio/elements-1) ([and more](https://www.youtube.com/watch?v=kDpdnAmAjI4))
+* I organized [DorkbotPDX](https://dorkbotpdx.org) for a decade in Portland, OR.
+* I collaborated on [a permanent sound installation at Microsoft](https://www.parallel.studio/elements-1)
+* [Played at a closing keynote](https://www.youtube.com/watch?v=kDpdnAmAjI4) (in a decommissioned missile silo)
+* Turned a beehive into a midi controller.
 
 ## Background about Pd:
 * MILLER (and community!)
