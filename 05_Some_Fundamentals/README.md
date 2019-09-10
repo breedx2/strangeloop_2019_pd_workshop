@@ -4,7 +4,7 @@
 * Terminology
   * inlets / outlets
   * types: bang, float, message, list, signal
-  * graphical ui elements
+  * [graphical ui elements](x_all_guis.png)
 * 2 graphs: audio vs data
   * The tilde (~)
   * adc~, dac~
