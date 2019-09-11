@@ -3,7 +3,7 @@
 
 Ok, lets do an exercise to expand on what we've learned so far...
 
-* let's do a slow vca
+* let's do a slow LFO vca (like [phasor~ 0.1])
 * introducing [vline~]
   * envelope the volume
   * envelope some pitch
