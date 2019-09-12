@@ -13,4 +13,4 @@ Even some basic delay can enhance your sound.
 
 [prev](../07_Enough_already_more_noises/) |
 [top](https://github.com/breedx2/strangeloop_2019_pd_workshop) |
-[next](../09_Filtered_noise/) 
+[next](../10_The_microphone/) 
