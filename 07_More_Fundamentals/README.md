@@ -12,4 +12,4 @@
   
 [prev](../05_Some_Fundamentals/) |
 [top](https://github.com/breedx2/strangeloop_2019_pd_workshop) |
-[next](../07_Enough_already_more_noises/) 
+[next](../08_Enough_already_more_noises/) 
