@@ -28,6 +28,10 @@ This workshop is not ________________________
  * A turnkey way to make EDM
  * not protools or live(tm)
 
+## We have 2 hours
+
+Let's do this.
+
 prev |
 [top](https://github.com/breedx2/strangeloop_2019_pd_workshop) |
 [next](../01_Lets_Begin/) 
