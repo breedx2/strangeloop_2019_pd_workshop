@@ -2,7 +2,7 @@
 
 It's an enveloped oscillator.
 
-* [osc~ 440] into [*~] into [dac~]
+* [osc~ 440] into [\*\~] into [dac~]
 * add [vline~] to right inlet of [*~]
  * look at [vline~] help
  * send [1 20, 0.8 10 30, 0 5 50 ( into the [vline~]
