@@ -3,7 +3,14 @@
 
 What did we just do? Tips to make patching simpler.
 
+## Important
+
 * learn all the shortcuts!
+* save your work
+* stay organized
+  * it's way too easy to get messy
+  
+## Also important
 * edit mode toggle
 * clicking off the object
 * selecting
@@ -14,7 +21,6 @@ What did we just do? Tips to make patching simpler.
   * shift drag
 * hot/quick play
 * duplicate
-* save your work
 
 
 [prev](../02_Hello_World/) |
