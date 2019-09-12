@@ -12,3 +12,7 @@ It's an enveloped oscillator.
 * [vline~] into the [osc~ 440]
 * into the [vline~]: [30, $1 10 30, 50 5 50 (
 * and then an hslider that feeds an mtof
+
+[prev](../05_Some_Fundamentals/) |
+[top](https://github.com/breedx2/strangeloop_2019_pd_workshop) |
+[next](../07_More_Fundamentals/) 
