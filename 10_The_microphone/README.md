@@ -11,6 +11,6 @@
   * next drive with [phasor~]
     * negative frequency plays backwards
 
-[prev](../09_Filtered_noise/) |
+[prev](../09_Add_some_delay/) |
 [top](https://github.com/breedx2/strangeloop_2019_pd_workshop) |
-[next](../11_Getting_abstract_for_reuse/) 
+[next](../11_Filtered_noise/) 
