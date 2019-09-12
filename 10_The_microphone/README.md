@@ -3,8 +3,10 @@
 
 * [adc~]
   * the opposite of [dac~]
-* arrays/tables and [tabwrite~]
-* [tabplay~]
+* make an array called a2 with 65539 size
+  * similar to table
+* create [tabwrite~ a2] and give it a bang
+* [tabplay~ a2]
 * [tabosc4~]
 * [tabread4~]
   * drive first with [vline~]
