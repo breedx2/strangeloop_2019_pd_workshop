@@ -2,6 +2,11 @@
 
 It's an enveloped oscillator.
 
+* let's do a slow LFO vca (like [phasor~ 0.3])
+* introducing [vline~]
+  * envelope the volume
+  * envelope some pitch
+
 * [osc~ 440] into [\*\~] into [dac~]
 * add [vline~] to right inlet of [*~]
  * look at [vline~] help
