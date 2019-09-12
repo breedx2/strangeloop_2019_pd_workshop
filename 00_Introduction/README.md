@@ -28,6 +28,9 @@ This workshop is not ________________________
  * A turnkey way to make EDM
  * not protools or live(tm)
 
+## WARNING
+* There will be loud/startling/uncomfortable sounds
+
 ## We have 2 hours
 
 Let's do this.
