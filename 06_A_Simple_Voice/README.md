@@ -2,12 +2,12 @@
 
 It's an enveloped oscillator.
 
+* [osc~ 440] into [\*\~] into [dac~]
 * let's do a slow LFO vca (like [phasor~ 0.3])
 * introducing [vline~]
   * envelope the volume
   * envelope some pitch
 
-* [osc~ 440] into [\*\~] into [dac~]
 * add [vline~] to right inlet of [*~]
  * look at [vline~] help
  * send [1 20, 0.8 10 30, 0 5 50 ( into the [vline~]
